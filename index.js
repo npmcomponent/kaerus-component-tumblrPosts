@@ -1,5 +1,5 @@
-var Tumblr = require('tumblr'),
-    strftime = require('strftime');
+var Tumblr = require('kaerus-component-tumblr'),
+    strftime = require('samsonjs-strftime');
 
 
 function TumblrPosts(options){

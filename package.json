@@ -1,0 +1,10 @@
+{
+  "name": "kaerus-component-tumblrposts",
+  "description": "Tumblr posts",
+  "version": "0.1.8",
+  "dependencies": {
+    "kaerus-component-tumblr": "git://github.com/npmcomponent/kaerus-component-tumblr.git",
+    "samsonjs-strftime": "git://github.com/npmcomponent/samsonjs-strftime.git"
+  },
+  "license": "Apache2_0"
+}
